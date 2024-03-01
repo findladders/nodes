@@ -26,10 +26,6 @@ WgetCloud，一家提供多协议支持的高速网络加速服务，涵盖SS/SS
 龙猫云，一家新兴的服务商，主打Shadowsocks协议和IPLC全专线服务，支持Netflix、Disney+、HBO、TVB等流媒体解锁，包括TikTok直播专线，提供全节点的ChatGPT支持。海外运营，支持企业定制服务。
 龙猫云是一个提供全面服务的网络加速机场，适合追求稳定和高速网络连接的用户，尤其是需要解锁流媒体服务的用户。
 
-优惠活动：2024年1月19号 – 2024年2月29号
-- 半年及以下套餐85折优惠码：lm85
-- 一年及以上套餐8折优惠码：lm80，最低可享4.8折
-
 
 ### [CyberGuard](https://cyberguard.top/#/register?code=EZAP4XL1)
 
@@ -50,10 +46,6 @@ CyberGuard提供按月付费和按流量付费的选项，基础套餐每月360G
 ### [V4Speed](https://v4web20240126.v4speed.xyz/#/register?code=6bYp0tpY)
 
 V4Speed，自2021年起运营的专业服务商，支持Shadowsocks专用协议和IPLC内网专线加速，以稳定性著称。支持多种订阅链接格式，如Clash、Shadowrocket和Stash。不仅支持游戏加速和网页加速，还能解锁各类流媒体服务，如Netflix、HBO和Hulu等，同时支持 ChatGPT 解锁。，无设备数量限制。
-
-春节活动优惠码：
-- 半年及以下套餐85折：speed85
-- 一年及以上套餐8折：speed80
 
 
 ### [贝贝云](https://beibeicloud.shop/#/register?code=nIZVvQr5)
