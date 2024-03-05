@@ -33,8 +33,6 @@ CyberGuard，2023年新成立，使用Shadowsocks协议，提供公网中转、I
 
 CyberGuard提供按月付费和按流量付费的选项，基础套餐每月360G流量，且不限设备数量，适合高强度用户使用。CyberGuard机场还支持多种操作系统，包括iOS、Android、macOS、Windows和Linux，并提供共享小火箭账号。
 
-优惠：季付及以上套餐8折优惠码：CG666
-
 
 ### [肥猫云](https://fccfweb20240126.fatcatcf.com/#/register?code=HbQKJawX)
 
