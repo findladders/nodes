@@ -47,11 +47,6 @@ CyberGuard提供按月付费和按流量付费的选项，基础套餐每月360G
 V4Speed，自2021年起运营的专业服务商，支持Shadowsocks专用协议和IPLC内网专线加速，以稳定性著称。支持多种订阅链接格式，如Clash、Shadowrocket和Stash。不仅支持游戏加速和网页加速，还能解锁各类流媒体服务，如Netflix、HBO和Hulu等，同时支持 ChatGPT 解锁。，无设备数量限制。
 
 
-### [贝贝云](https://beibeicloud.shop/#/register?code=nIZVvQr5)
-
-贝贝云，2023年新成立，使用Shadowsocks协议，主打性价比和公网隧道中转服务，支持多种订阅格式，适合追求性价比的用户。支持多种主流订阅格式，如Clash、Shadowrocket、Surge、Quantumult X、Stash、V2rayN等软件。此外，sing-box用户需要通过订阅转换后使用。贝贝云机场是一个适合追求性价比和中转服务的用户。
-
-
 ### [悠兔](https://youtunice.com/?path=register&code=GBl5dvoh)
 
 悠兔，成立于2022年，主用Shadowsocks协议，支持Netflix和Disney+等流媒体服务，提供稳定的网络体验。悠兔机场的节点主要分布在亚洲和美国等地区，提供稳定的服务和良好的网络体验。悠兔机场支持常见的订阅格式，如Clash、Shadowrocket和Quantumult X等。
